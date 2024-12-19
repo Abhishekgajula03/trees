@@ -1,4 +1,4 @@
-# topview
+
 class Solution {
   public:
     // Function to return a list of nodes visible from the top view
